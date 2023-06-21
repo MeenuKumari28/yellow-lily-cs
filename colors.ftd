@@ -4,7 +4,7 @@ dark: #fae100
 
 -- ftd.color step-1-:
 light: #e1e1e1
-dark: #e1e1e1
+dark: #fae100
 
 -- ftd.color step-2-:
 light: rgb(153, 221, 211)
@@ -35,7 +35,7 @@ dark: #919192
 
 -- ftd.color text-:
 light: #565656
-dark: #565656
+dark: #6f6617
 
 -- ftd.color text-strong-:
 light: #232323
