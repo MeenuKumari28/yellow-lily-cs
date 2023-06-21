@@ -3,8 +3,8 @@ light: #ffffff
 dark: #fae100
 
 -- ftd.color step-1-:
-light: #1f4c48
-dark: #1f4c48
+light: #e1e1e1
+dark: #e1e1e1
 
 -- ftd.color step-2-:
 light: rgb(153, 221, 211)
